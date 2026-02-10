@@ -1,6 +1,6 @@
 <div style='display:flex; justify-content: space-between' >
-  <img width="40%" alt="Imagem App 1" src="https://github.com/user-attachments/assets/6ae4d086-f86f-4738-b880-fc1549f67f00" />
-  <img width="40%" alt="Imagem App 2" src="https://github.com/user-attachments/assets/34347fab-b62a-48d4-9813-17e35f06a3fd" />
+  <img width="45%" alt="Imagem App 1" src="https://github.com/user-attachments/assets/6ae4d086-f86f-4738-b880-fc1549f67f00" />
+  <img width="45%" alt="Imagem App 2" src="https://github.com/user-attachments/assets/34347fab-b62a-48d4-9813-17e35f06a3fd" />
 </div>
 
 ````md
